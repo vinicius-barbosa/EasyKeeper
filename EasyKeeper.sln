@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyKeeper", "EasyKeeper\EasyKeeper.csproj", "{0FA9EA2D-9038-499A-9757-899FE0215973}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FA9EA2D-9038-499A-9757-899FE0215973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA9EA2D-9038-499A-9757-899FE0215973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA9EA2D-9038-499A-9757-899FE0215973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA9EA2D-9038-499A-9757-899FE0215973}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5B71070-0DEE-4CBF-8058-072FF52B8D69}
+	EndGlobalSection
+EndGlobal

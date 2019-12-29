@@ -1,0 +1,16 @@
+D:\Projetos\Idéias\EasyKeeper\EasyKeeper\EasyKeeper\obj\Debug\EasyKeeper.csprojAssemblyReference.cache
+D:\Projetos\Idéias\EasyKeeper\EasyKeeper\EasyKeeper\bin\Debug\EasyKeeper.dll
+D:\Projetos\Idéias\EasyKeeper\EasyKeeper\EasyKeeper\bin\Debug\EasyKeeper.pdb
+D:\Projetos\Idéias\EasyKeeper\EasyKeeper\EasyKeeper\bin\Debug\EntityFramework.dll
+D:\Projetos\Idéias\EasyKeeper\EasyKeeper\EasyKeeper\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projetos\Idéias\EasyKeeper\EasyKeeper\EasyKeeper\bin\Debug\System.Data.SQLite.dll
+D:\Projetos\Idéias\EasyKeeper\EasyKeeper\EasyKeeper\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Projetos\Idéias\EasyKeeper\EasyKeeper\EasyKeeper\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Projetos\Idéias\EasyKeeper\EasyKeeper\EasyKeeper\bin\Debug\EntityFramework.xml
+D:\Projetos\Idéias\EasyKeeper\EasyKeeper\EasyKeeper\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projetos\Idéias\EasyKeeper\EasyKeeper\EasyKeeper\bin\Debug\System.Data.SQLite.xml
+D:\Projetos\Idéias\EasyKeeper\EasyKeeper\EasyKeeper\bin\Debug\System.Data.SQLite.dll.config
+D:\Projetos\Idéias\EasyKeeper\EasyKeeper\EasyKeeper\obj\Debug\EasyKeeper.csproj.CopyComplete
+D:\Projetos\Idéias\EasyKeeper\EasyKeeper\EasyKeeper\obj\Debug\EasyKeeper.dll
+D:\Projetos\Idéias\EasyKeeper\EasyKeeper\EasyKeeper\obj\Debug\EasyKeeper.pdb
+D:\Projetos\Idéias\EasyKeeper\EasyKeeper\EasyKeeper\bin\Debug\EasyKeeper.dll.config
